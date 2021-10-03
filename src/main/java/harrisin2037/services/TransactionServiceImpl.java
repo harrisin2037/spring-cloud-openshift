@@ -4,10 +4,12 @@ import java.util.Collection;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import harrisin2037.daos.TransactionDao;
 import harrisin2037.models.Transaction;
 
+@Service
 public class TransactionServiceImpl implements TransactionService {
 
   @Autowired
