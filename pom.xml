@@ -17,7 +17,7 @@
 	<groupId>harrisin2037</groupId>
 	<artifactId>spring-cloud-transaction</artifactId>
 	<version>v1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>spring-cloud-transaction</name>
 	<description>mongo app in Openshift Cluster</description>
 	<dependencies>
