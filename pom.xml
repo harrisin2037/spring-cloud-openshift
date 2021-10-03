@@ -15,10 +15,10 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	<groupId>harrisin2037</groupId>
-	<artifactId>spring-cloud-openshift</artifactId>
+	<artifactId>spring-cloud-transaction</artifactId>
 	<version>v1</version>
 	<packaging>war</packaging>
-	<name>spring-cloud-openshift</name>
+	<name>spring-cloud-transaction</name>
 	<description>mongo app in Openshift Cluster</description>
 	<dependencies>
 		<dependency>
